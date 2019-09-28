@@ -353,10 +353,10 @@ ul#nav li.current a { color: #F06000; }
   	-moz-animation: JavaScript 2s ease;
   	-webkit-animation: JavaScript 2s ease;
 }
-.PHP {
-  	width: 40%;
-  	-moz-animation: PHP 2s ease;
-  	-webkit-animation: PHP 2s ease;
+.CahierDesCharges {
+  	width: 65%;
+  	-moz-animation: CahierDesCharges 2s ease;
+  	-webkit-animation: CahierDesCharges 2s ease;
 }
 .Maquettage{
    width: 65%;
@@ -389,9 +389,9 @@ ul#nav li.current a { color: #F06000; }
   0%   { width: 0px;  }
   100% { width: 40%;  }
 }
-@-moz-keyframes PHP {
+@-moz-keyframes CahierDesCharges {
   0%   { width: 0px;  }
-  100% { width: 40%;  }
+  100% { width: 65%;  }
 }
 @-moz-keyframes Maquettage {
    0%   { width: 0px;  }
@@ -422,9 +422,9 @@ ul#nav li.current a { color: #F06000; }
   0%   { width: 0px;  }
   100% { width: 40%;  }
 }
-@-webkit-keyframes PHP {
+@-webkit-keyframes CahierDesCharges {
   0%   { width: 0px;  }
-  100% { width: 40%;  }
+  100% { width: 65%;  }
 }
 @-webkit-keyframes Maquettage {
    0%   { width: 0px;  }
