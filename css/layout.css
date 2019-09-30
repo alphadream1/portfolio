@@ -815,6 +815,11 @@ call-to-action .button {
 /* ------------------------------------------------------------------ */
 /* h. Contact Section
 /* ------------------------------------------------------------------ */
+#contact img{
+   width: 40px;
+   height: 40px;
+   color: white;
+}
 
 #contact {
    background: #191919;
@@ -835,7 +840,7 @@ call-to-action .button {
    margin-bottom: 6px;
 }
 #contact h1 span { display: none; }
-#contact h1:before {
+/*#contact h1:before {
    font-family: 'FontAwesome';
    content: "\f0e0";
 	padding-right: 10px;
@@ -844,7 +849,7 @@ call-to-action .button {
    text-align: left;
    float: left;
    color: #ebeeee;
-}
+}*/
 
 #contact h4 {
    font: 16px/24px 'opensans-bold', sans-serif;
